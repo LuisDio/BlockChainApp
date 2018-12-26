@@ -24,11 +24,12 @@ $ sudo npm install -g truffle
 # Ganache installation
 To download Ganache, visit http://truffleframework.com/ganache/ and click on Download.
 Under Linux, you will download an AppImage package. To run it, navigate to your Download folder and change its modus and finally execute it.
+
 ```
 $ cd ~/Downloads
 $ chmod a+x ganache-1.1.0-x86_64.AppImage
 $ ./ganache-1.1.0-x86_64.AppImage
-
+```
 
 It will prompt a window and ask you whether you want to integrate Ganache with your system. Click Yes and the programm is ready to use.
 
