@@ -1,10 +1,10 @@
 # BlockChainApp
 
-This project is a step by step application development using ethereum Blockchain. It will consist of two basic element: A 'Smart contract' and a 'Web insterface'. Our smart contract will allow customization access to the blockchain where we can store our data.
+This project is a step by step application development using ethereum Blockchain. It will consist of two basic element: A `Smart contract` and a `Web insterface`. Our smart contract will allow customization access to the blockchain where we can store our data.
 The goal is to develop a simple Dapp that will allow us to deposit Ether and send it from one address to another and check the balance that's being stored, see who the approver is and enable the approver to approve the transaction. Each part of the developmet will require some knowledge of javascript for the client side, Solidiy and more on the Ethereum side.
 
 
-What we really need to be install is the 'Truffle' test server and Ganache(optional).
+What we really need to be install is the `Truffle` test server and Ganache(optional).
 To begin we will install npm and nodeJs on your Linux distribution. For this project I chose to use ubuntu 16.04. After the installation done. We'll install truffle which we will be used to compile and migrate our smart contrat on our test network.
 Ganache on the other hand will allow us to interact and see transaction performed on our network.
 
