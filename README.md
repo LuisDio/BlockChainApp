@@ -34,8 +34,9 @@ $ chmod a+x ganache-1.1.0-x86_64.AppImage
 $ ./ganache-1.1.0-x86_64.AppImage
 ```
 
-It will prompt a window and ask you whether you want to integrate Ganache with your system. 
-
+It will prompt a window and ask you whether you want to integrate Ganache with your system.
 Click Yes and the programm is ready to use.
+
+When completly setup, create a directory project in which you will store you files that will be set from the 'truffle init' command.
 
 
